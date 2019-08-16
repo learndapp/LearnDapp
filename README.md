@@ -10,6 +10,7 @@ W3c.Group社区中的LearnDapp小组地址：https://w3c.group/g/1124467/join
 ## 列表
 |主题			|关键词	|发布日期			|
 |---|---|---|
+|[开发一个安全且不记私钥的非中心化数字货币钱包 - LearnDapp系列](https://github.com/learndapp/LearnDapp/blob/master/topics/wm/01/wm-wallet.md) |Keyless Wallet Multi-currency | 2019-08-16|
 |[学习Filecoin开发一个自己的公链（一）共识 - LearnDapp系列](https://github.com/learndapp/LearnDapp/blob/master/topics/ldc/01/proof.md) |Filecoin Blockchain Proof | 2019-07-28|
 |[Libra区块链钱包开发实录附源码 - LearnDapp系列](https://github.com/learndapp/LearnDapp/blob/master/topics/libra/01/libra-wallet.md) |Facebook Libra Wallet | 2019-06-29|
 
